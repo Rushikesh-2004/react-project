@@ -1,13 +1,13 @@
 {
-  "homepage":"https://github.com/Rushikesh-2004/react-project",
+  "homepage": "https://github.com/Rushikesh-2004/react-project",
   "name": "project-1",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "predeploy":"npm run build",
-    "deploy":"gh-pages -d public",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d public",
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview"
